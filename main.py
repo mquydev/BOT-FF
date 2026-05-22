@@ -45,7 +45,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ADMIN_UID = "4368569733"
 GUEST_UID = "4283027636"
 GUEST_PASSWORD = "19F3776AD049A35178C44D3A6B7FFFB02B7BDC91898EB7B04AAC11873E5D3881"
-region = 'IN'
+region = 'VN'
 
 online_writer = None
 whisper_writer = None
